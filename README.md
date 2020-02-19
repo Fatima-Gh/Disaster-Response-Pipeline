@@ -15,7 +15,7 @@
 
 
 Main Page Data Analysis
-![Image description](Screen Shot 2020-02-19 at 11.14.16 PM.png)
+![Screenshot](Screen Shot 2020-02-19 at 11.14.16 PM.png)
 
 Messeage Categorization
-![Image description](Screen Shot 2020-02-19 at 11.15.25 PM.png)
+![Screenshot](Screen Shot 2020-02-19 at 11.15.25 PM.png)

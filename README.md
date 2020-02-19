@@ -12,3 +12,10 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+
+Main Page Data Analysis
+![Image description](Screen Shot 2020-02-19 at 11.14.16 PM.png)
+
+Messeage Categorization
+![Image description](Screen Shot 2020-02-19 at 11.15.25 PM.png)
